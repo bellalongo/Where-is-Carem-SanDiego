@@ -2,7 +2,7 @@
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++11 BestBuy.cpp Computer.cpp Hacker.cpp Map.cpp Player.cpp project3.cpp
+Compile: g++ -std=c++11 BestBuy.cpp Computer.cpp Hacker.cpp Map.cpp Player.cpp Game.cpp main.cpp
 Run: ./a.out
 ------------------------
 DEPENDENCIES

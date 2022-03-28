@@ -14,7 +14,6 @@ SUBMISSION INFORMATION
 ------------------------
 CSCI1300 Fall 2021 Project 3
 Author: Bella Longo
-Recitation: 119 - Spencer Paulissen
 Date: December 2, 2021
 ------------------------
 ABOUT THIS PROJECT
